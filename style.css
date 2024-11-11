@@ -1,0 +1,51 @@
+
+h1{
+    text-align: center;
+    margin-top: 0%;
+    text-decoration: solid;
+    color: rgb(25, 6, 43);
+  }
+ol{
+    margin: 0%;  
+    padding: 0cm;  
+    overflow: hidden;  
+    text-decoration: none;
+
+  }
+  li{
+    text-align: left;
+    padding: 5px;
+    margin-top: 0px;
+    text-decoration: none;
+  }
+  li a{
+    display: block;
+    color: rgb(5, 5, 250);
+    text-align: right;
+    
+  }
+  body{
+    background-image:linear-gradient(rgba(172, 181, 221, 0.6),rgba(172, 181, 221, 0.6)), url(image/EL\ NINO\ 3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+  }
+  h3{
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
+ p{
+  color: rgb(25, 6, 43);
+  font-size: 150%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+ }
+ main menu{
+  padding: auto;
+  text-shadow: 50px;
+ }
+
+  
